@@ -15,3 +15,20 @@ It is an end-to-end data platform covering:
 -> Great Expectations data quality enforcement
 ->Power BI executive dashboards
 The system processes 100,000+ EHR records and transforms raw admissions data into actionable risk intelligence for clinical leadership.
+
+# 2. Business Problem
+
+Healthcare systems face:
+
+-> High 30-day readmission penalties
+->Inconsistent clinical risk scoring
+-> Limited interpretability in ML systems
+-> Fragmented data pipelines across systems
+
+This project solves:
+
+✔ Predict which patients are at high risk of readmission
+✔ Provide interpretable risk drivers to clinicians
+✔ Automate ingestion, validation, modeling, and reporting
+
+✔ Reduce manual chart review effort
