@@ -1,2 +1,17 @@
-# Hospital-Readmission-Prediction-Healthcare-Analytics-Lakehouse
-Hospital Readmission Prediction 
+# Hospital Readmission Prediction — Enterprise Healthcare Analytics Lakehouse
+# 1. Executive Overview
+Hospital readmissions within 30 days are a major quality and financial burden for healthcare systems. Unplanned readmissions increase operational cost, strain bed capacity, and directly impact hospital reimbursement under value-based care models.
+
+This project builds a full enterprise-grade Healthcare Analytics Lakehouse that predicts 30-day readmissions using advanced SQL engineering, modern data lake architecture, and explainable machine learning.
+
+It is not just a model.
+It is an end-to-end data platform covering:
+
+-> Clinical feature engineering in Snowflake
+-> Lakehouse architecture using Apache Iceberg
+-> Orchestrated pipelines via Apache Airflow
+-> XGBoost modeling with SHAP explainability
+-> SMOTE class imbalance handling
+-> Great Expectations data quality enforcement
+->Power BI executive dashboards
+The system processes 100,000+ EHR records and transforms raw admissions data into actionable risk intelligence for clinical leadership.
